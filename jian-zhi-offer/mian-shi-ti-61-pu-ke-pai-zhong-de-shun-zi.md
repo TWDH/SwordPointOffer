@@ -6,7 +6,7 @@ description: >-
 
 # 面试题61：扑克牌中的顺子
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 ## 方法一：排序+遍历
 

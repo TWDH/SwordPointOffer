@@ -6,7 +6,7 @@
 2. 第一次扫描数组，如果未出现过为true（小于等于一次），出现过为false（大于1次）。
 3. 第二次扫描，返回第一个true
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 ```java
 class Solution {

@@ -12,7 +12,7 @@ description: >-
 2. 计算`B[i]`的下三角各个元素乘积，直接乘入`B[i]`；
 3. 计算`B[i]`的上三角各个元素乘积，记为temp，再将temp依次计入B。
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 ```java
 class Solution {

@@ -4,7 +4,7 @@ description: 把n个骰子扔在地上，所有骰子朝上一面的点数之和
 
 # 面试题60：n个骰子的点数
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ## 方法一：动态规划
 
