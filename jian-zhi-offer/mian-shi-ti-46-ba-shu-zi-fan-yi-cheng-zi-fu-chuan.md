@@ -8,9 +8,9 @@ description: >-
 
 ## 1.方法一：动态规划
 
-![](.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
-![](.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 * 此解法`dp[0]`为**“无数字”**的情况
 

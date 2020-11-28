@@ -6,7 +6,7 @@ description: >-
 
 # 面试题47：礼物的最大价值
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 ## 方法一：动态规划
 
@@ -25,9 +25,9 @@ description: >-
 
    1. `dp[m-1][n-1]` 
 
-![](.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ```java
 class Solution {

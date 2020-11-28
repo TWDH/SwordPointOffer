@@ -64,11 +64,11 @@
 * [面试题42. 连续子数组的最大和](jian-zhi-offer/mian-shi-ti-42.-lian-xu-zi-shu-zu-de-zui-da-he.md)
 * [面试题44：数字序列中某一位的数字](jian-zhi-offer/mian-shi-ti-44-shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi.md)
 * [面试题45：把数组排成最小的数](jian-zhi-offer/mian-shi-ti-45-ba-shu-zu-pai-cheng-zui-xiao-de-shu.md)
+* [面试题46：把数字翻译成字符串](jian-zhi-offer/mian-shi-ti-46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan.md)
+* [面试题47：礼物的最大价值](jian-zhi-offer/mian-shi-ti-47-li-wu-de-zui-da-jia-zhi.md)
 
 ---
 
-* [面试题46：把数字翻译成字符串](mian-shi-ti-46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan.md)
-* [面试题47：礼物的最大价值](mian-shi-ti-47-li-wu-de-zui-da-jia-zhi.md)
 * [面试题48：最长不含重复字符的子字符串](mian-shi-ti-48.md)
 * [面试题49：丑数](mian-shi-ti-49-chou-shu.md)
 * [面试题50：第一个只出现一次的字符](mian-shi-ti-50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu.md)
