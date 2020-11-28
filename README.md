@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction](./)
 
 ## Java
 
@@ -64,34 +64,31 @@
 * [面试题42. 连续子数组的最大和](jian-zhi-offer/mian-shi-ti-42.-lian-xu-zi-shu-zu-de-zui-da-he.md)
 * [面试题44：数字序列中某一位的数字](jian-zhi-offer/mian-shi-ti-44-shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi.md)
 * [面试题45：把数组排成最小的数](jian-zhi-offer/mian-shi-ti-45-ba-shu-zu-pai-cheng-zui-xiao-de-shu.md)
-
----
-
 * [面试题46：把数字翻译成字符串](mian-shi-ti-46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan.md)
 * [面试题47：礼物的最大价值](mian-shi-ti-47-li-wu-de-zui-da-jia-zhi.md)
 * [面试题48：最长不含重复字符的子字符串](mian-shi-ti-48.md)
-* [面试题49：丑数](mian-shi-ti-49-chou-shu.md)
+* [面试题49：丑数](mian-shi-ti-49-chou-shu/)
 * [面试题50：第一个只出现一次的字符](mian-shi-ti-50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu.md)
 * [面试题51： 数组中的逆序对](mian-shi-ti-51-shu-zu-zhong-de-ni-xu-dui.md)
-* [面试题52. 两个链表的第一个公共节点](untitled.md)
+* [面试题52. 两个链表的第一个公共节点](jian-zhi-offer/untitled-3.md)
 * [面试题53：在排序数组中查找数字 I](mian-shi-ti-53-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-i.md)
-* [面试题53：II. 0～n-1中缺失的数字](untitled-1.md)
+* [面试题53：II. 0～n-1中缺失的数字](untitled-1-1.md)
 * [面试题54：二叉搜索树的第k大节点](mian-shi-ti-54-er-cha-sou-suo-shu-de-dikda-jie-dian.md)
 * [面试题55：二叉树的深度](mian-shi-ti-55-er-cha-shu-de-shen-du.md)
-* [面试题55：II. 平衡二叉树](mian-shi-ti-55ii.-ping-heng-er-cha-shu.md)
+* [面试题55：II. 平衡二叉树](jian-zhi-offer/mian-shi-ti-55ii.-ping-heng-er-cha-shu.md)
 * [面试题56：I. 数组中数字出现的次数](mian-shi-ti-56i.-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu.md)
 * [面试题56：II. 数组中数字出现的次数 II](mian-shi-ti-56ii.-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii.md)
-* [面试题57. 和为s的两个数字](mian-shi-ti-57.-he-weisde-liang-ge-shu-zi.md)
-* [面试题57 - II. 和为s的连续正数序列](jian-zhi-offer-57-ii.-he-weisde-lian-xu-zheng-shu-xu-lie.md)
+* [面试题57. 和为s的两个数字](mian-shi-ti-64-qiu-1+2++n/mian-shi-ti-57.-he-weisde-liang-ge-shu-zi.md)
+* [面试题57 - II. 和为s的连续正数序列](mian-shi-ti-64-qiu-1+2++n/jian-zhi-offer-57-ii.-he-weisde-lian-xu-zheng-shu-xu-lie.md)
 * [面试题58 - I. 翻转单词顺序](jian-zhi-offer-58-i.-fan-zhuan-dan-ci-shun-xu.md)
 * [面试题58 - II. 左旋转字符串](mian-shi-ti-58-ii.-zuo-xuan-zhuan-zi-fu-chuan.md)
 * [面试题59 - I. 滑动窗口的最大值](mian-shi-ti-59-i.-hua-dong-chuang-kou-de-zui-da-zhi.md)
-* [面试题59 - II. 队列的最大值](mian-shi-ti-59-ii.-dui-lie-de-zui-da-zhi.md)
+* [面试题59 - II. 队列的最大值](mian-shi-ti-65-bu-yong-jia-jian-cheng-chu-zuo-jia-fa/mian-shi-ti-59-ii.-dui-lie-de-zui-da-zhi.md)
 * [面试题60：n个骰子的点数](mian-shi-ti-60n-ge-tou-zi-de-dian-shu.md)
-* [面试题61：扑克牌中的顺子](mian-shi-ti-61-pu-ke-pai-zhong-de-shun-zi.md)
-* [面试题62：圆圈中最后剩下的数字](untitled-2.md)
+* [面试题61：扑克牌中的顺子](mian-shi-ti-49-chou-shu/mian-shi-ti-61-pu-ke-pai-zhong-de-shun-zi.md)
+* [面试题62：圆圈中最后剩下的数字](mian-shi-ti-49-chou-shu/untitled-2-1.md)
 * [面试题63：股票的最大利润](mian-shi-ti-63-gu-piao-de-zui-da-li-run.md)
-* [面试题64：求1+2+…+n](mian-shi-ti-64-qiu-1+2++n.md)
-* [面试题65：不用加减乘除做加法](mian-shi-ti-65-bu-yong-jia-jian-cheng-chu-zuo-jia-fa.md)
+* [面试题64：求1+2+…+n](mian-shi-ti-64-qiu-1+2++n/)
+* [面试题65：不用加减乘除做加法](mian-shi-ti-65-bu-yong-jia-jian-cheng-chu-zuo-jia-fa/)
 * [面试题66. 构建乘积数组](mian-shi-ti-66.-gou-jian-cheng-ji-shu-zu.md)
 
